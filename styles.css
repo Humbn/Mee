@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 a:link, a:visted {
   background-color: white;
   color: green;
@@ -11,4 +15,12 @@ a:hover, a:active {
   background-color: red;
 }
   
+</style>
+</head>
+<body>
+
+<a href="default.asp" target="-_blank">Link</a>
+
+</body>
+</html>
   
